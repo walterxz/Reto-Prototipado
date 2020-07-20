@@ -37,6 +37,7 @@ Un empleado ejemplar que busca siempre mejorar sus puntos debiles, le gusta ser 
 * Evalúa 
 * Guarda
 
+___
 **User Persona:** Ana
 
 **Escenario:** Necesita visualizar los avances del mes de sus empleados
@@ -50,7 +51,7 @@ Un empleado ejemplar que busca siempre mejorar sus puntos debiles, le gusta ser 
 * Utiliza la barra de busqueda y empieza a filtrar los nombres de los empleados
 * Selecciona un rango de fechas
 * Selecciona el botón consultar
-
+___
 **User Persona:** Alex
 
 **Ecenario:** Quiere ver los premios que ha obtenido en la empresa desde que tiene su nuevo cargo, tiene algunas sugerencias de nuevos indicadores que podrian ayudar la visibilidad del trabajo
@@ -62,12 +63,13 @@ Un empleado ejemplar que busca siempre mejorar sus puntos debiles, le gusta ser 
 * Ingresa al menú principal
 * Selecciona
 * Selecciona premios otorgados
-
+___
 ## Wireframes 
 (Bocetos rápidos en papel leyendo requerimientos)
 <p align="center">
 <img src="Wireframes/papel.JPG" width="500px" />
 </p>
+
 ## Wireframes digitales
 
 <img src="Wireframes/wireframe.png" />
@@ -85,8 +87,8 @@ https://material.io/resources/color/#!/?view.left=0&view.right=0&primary.color=0
 <img src="Moodboard/chart2.JPG" />
 <img src="Moodboard/Colors.JPG" />
 <img src="Moodboard/Material Desing.jpg" />
-</>
-Colores
+</P>
+Paleta de Colores
 
 `#0d47a1`
 
@@ -96,3 +98,16 @@ Colores
 
 ## Diseño de interfaces
 
+ÁTOMOS        | MOLÉCULAS     | ORGANISMOS | TEMPLATES
+------------- | ------------- | ---------- | ---------- 
+INPUT   | NAVEGADOR       | HEADER         | LOGIN
+BUTTON  | FORM LOGIN      | SLIDER         | MAIN MENU
+LABEL   | TABLE CHARGES   | MENU           | USER PROFILE
+TEXT    | HELP MENU       | GRAPHS         | USER REWADS
+TITLE   | HELP VIEW       | GENERAL INFO   | DASHBOARD
+LOGO    | PROFILE         | REWARDS        | SELF APPRAISAL
+IMG     |                 |                | SELF APPRAISAL (ADM)
+HELP    |                 |                | HELP
+
+
+<img src="Wireframes/F1.JPG" />
